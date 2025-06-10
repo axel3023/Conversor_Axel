@@ -4,4 +4,4 @@ El proporsito de este proyecto es crear un programa que realice las siguientes c
 ✓ Litros a galones
 ✓ Gramos a onzas
 ✓ Centímetros a pulgadas
-El proyecto sera realizado en Visual Studio Code
+El proyecto sera realizado en IntelliJ
